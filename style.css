@@ -12,6 +12,11 @@ h1, h2 {
   color: #096386;
 }
 
+.container {
+  width: 700px;
+  margin: auto;
+}
+
 #main-title {
   margin-top: 0;
 }
