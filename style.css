@@ -12,6 +12,16 @@ h1, h2 {
   color: #096386;
 }
 
+/*.fa-twitter-square:hover + #hidden {
+  opacity: 1.0;
+}*/
+
+#hidden {
+/*  margin: 0;
+  padding: 0;*/
+  opacity: 0;
+}
+
 .container {
   width: 700px;
   margin: auto;
@@ -65,6 +75,7 @@ h1, h2 {
   margin-bottom: 40px;
 }
 
+
 i {
   color: #00b7a8;
   opacity: .5;
@@ -100,3 +111,5 @@ ul {
     width: 300px;
   }
 }
+
+
